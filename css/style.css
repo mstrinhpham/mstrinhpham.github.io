@@ -1,0 +1,149 @@
+body {
+	font-family: Verdana, Helvetica, Sans-serif;
+	color: black; 
+	padding: 10px;
+	background-image: url("http://www.noupe.com/wp-content/uploads/2009/10/pattern-03.jpg");
+}
+
+h1 {
+	font-family: "Brush Script MT", cursive;
+	font-size: 6em;
+	color: black;
+}
+
+h2 {
+	font-family: "Brush Script MT", cursive;
+	font-size: 2em;
+}
+
+h3 {
+	font-family: Verdana, Helvetica, sans-serif;
+	font-style: italic;
+	font-size: 1em;
+}
+
+h4 {
+	font-style: italic;
+	color: gray;
+}
+
+
+body {
+	padding: 0px
+}
+
+#container {
+	width: 700px;
+	background-color: #E6EBED;
+	border: 2px solid #8d7444;
+	margin: 0px auto auto;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	margin-top: 0;
+	/* float: right; */
+}
+
+#topbox {
+	width: 700px;
+	height: 199px;
+	background-color: #A9C6D1;
+	margin: 0px auto auto;
+	margin-top: 0px;
+	border: 2px solid #8d7444;
+}
+
+#profilepic {
+	width: 200px;
+	height: 190px;
+	margin-bottom: 0px;
+}
+
+#name {
+	font-family: 'Oleo Script Swash Caps', cursive;
+	font-size: 4em;
+	padding-right: 50px;
+	padding-bottom: 10px;
+	/*float: right;*/
+	/*position:absolute;
+	left:485px;
+	top:20px;*/
+	float: right;
+	position: relative;
+
+}
+
+#contactmeheading {
+	font-family: Helvetica, Verdana, sans-serif;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 2em;
+	background-color: #A9C6D1;
+	border: 1px solid #8d7444;
+	padding: 0;
+
+}
+
+#contacttable {
+	width: 217px;
+	height: 372px;
+	border: 1px solid #8d7444;
+	margin-bottom: 2px;
+	float: left;
+}
+.contactbox {
+	background-color: #A9C6D1;
+	width: 215px;
+	border: 1px solid #8d7444;
+}
+
+#headingbox1 {
+	text-align: center;
+	padding-left: 10px;
+
+}
+
+.headingbox {
+	text-align: center;
+	padding: 0;
+	margin: 0px;
+}
+.companyname {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.companylogo {
+	padding-left: 10px;
+	padding-right: 10px;
+	float: right;
+}
+
+.date {
+	text-align: right;
+	font-style: italic;
+	text-align: left;
+	padding: 10px;
+}
+
+.jobtitle {
+	padding-left: 10px;
+	font-weight: bold;
+}
+.jobdescription {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#educationinterests {
+	padding: 10px;
+}
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+.clearfix:after {
+    clear: both;
+
+
